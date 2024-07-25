@@ -1,18 +1,38 @@
----------------------------------------------------------------------------------------------
-                   YASSINE_GANNOUNE_GSEII  ************** Pr.Marktani
----------------------------------------------------------------------------------------------
-***all codes are in the folder code_project well comented.
-***the project use [appdesigner] GUI instead of guide GUI thats why all pages are app matlab extension(the same features just that appdesigner is well performed).
-***to create a new app just tap;appdesigner--------
-****To run the project you need only to run the app main_page and follow the steps in video.
-***the video it tooks less than 10min due to the content and information
-i could not make less because it was a litle hard since it contains multiple parts and
-it was hard to record again with one less of 5 min
-***codage_presentation:ppt used in video
-***in the record it may appears some latency in app execution ,the reason is due to version of matlab and the computer used,but normally the code works well.
+# Compression Coding
+
+## Overview
+
+This project uses MATLAB's App Designer GUI instead of the GUIDE GUI for a more enhanced and efficient user experience. All the source code is well-commented and located in the `code_project` folder.
+
+## Features
+
+- **App Designer GUI**:
+  - The project utilizes MATLAB's App Designer GUI, which offers the same features as GUIDE but with improved performance.
+  - To create a new app, simply type `appdesigner` in the MATLAB command window.
+
+## Running the Project
+
+1. **Run the Main App**:
+   - To run the project, open MATLAB and run the `main_page` app.
+   - Follow the steps provided in the accompanying video tutorial.
+
+2. **Video Tutorial**:
+   - The video tutorial is less than 10 minutes long and covers all the necessary steps and information.
+   - Due to the detailed content and multiple parts, the video could not be made shorter without losing essential information.
+
+## Presentation
+
+- **Codage Presentation**:
+  - The PowerPoint presentation (`codage_presentation.ppt`) used in the video is included in the project files.
+
+## Notes
+
+- **Latency in App Execution**:
+  - Some latency may be observed in the app execution during the recorded video. This is due to the MATLAB version and the computer used for recording. Normally, the code works well without significant latency.
+
+## Conclusion
 
 Thanks for your time.
-Best Regards
----------------------------------------------------------------------------------------------
-                                     YASSINE_GANNOUNE_GSEII
-----------------------------------------------------------------------------------------------
+
+Best regards,
+The Authors
